@@ -1,0 +1,33 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    align-self:auto ;
+}
+nav{
+    background-color: rgb(153, 156, 158);
+}
+ul{
+    display: flex;
+    padding: 20px;
+}
+ul li{
+    padding: 0 20px;
+    list-style: none;
+}
+div form{
+    text-align: center;
+}
+p{
+    text-indent: 10px;
+}
+img{
+    border-radius: 40px;
+}
+button{
+    background:peru;
+    border-radius: 20px;
+    padding:10px 50px;
+    border: none;
+color: aliceblue;
+font-weight: 400;
+font-size: 20px;
+}
