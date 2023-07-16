@@ -31,3 +31,12 @@ color: aliceblue;
 font-weight: 400;
 font-size: 20px;
 }
+.button{
+    background-color: white;
+    color: black;
+    border: 1px solid green;
+    padding: 20px 30px;
+    margin: 10px;
+    text-decoration: none;
+display: inline-block;
+}
